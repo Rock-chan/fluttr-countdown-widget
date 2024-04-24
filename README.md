@@ -39,6 +39,8 @@ CountDownWidget(
 )
 ```
 
+![](https://media.giphy.com/media/3MJhoNZk0NvIYERDsX/giphy.gif)
+
 ## More
 For more question, you can email me: chenzhangjin@outlook.com
 
