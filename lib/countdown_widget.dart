@@ -52,7 +52,9 @@ class _CountDownWidgetState extends State<CountDownWidget> {
 
   @override
   void dispose() {
-    if (_countDownTimer != null && _countDownTimer!.isActive) _countDownTimer!.cancel();
+    if (_countDownTimer != null && _countDownTimer!.isActive) {
+      _countDownTimer!.cancel();
+    }
     Wakelock.toggle(enable: false);
     super.dispose();
   }

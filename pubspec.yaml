@@ -1,5 +1,5 @@
 name: flutter_countdown_widget
-description: A countdown widget for Flutter.
+description: A countdown widget for Flutter. When you in the development of e-commerce projects, encounter the commodity countdown seconds kill scene, you can use this component to develop, we provide the day, hour, minute, second four parameters, to help you better build your components
 version: 0.0.1
 repository: https://github.com/Rock-chan/fluttr-countdown-widget.git
 
