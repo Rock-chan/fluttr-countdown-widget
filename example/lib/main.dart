@@ -1,5 +1,5 @@
-import 'package:countdown_widget/countdown_widget.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_countdown_widget/countdown_widget.dart';
 
 void main() {
   runApp(const MyApp());
